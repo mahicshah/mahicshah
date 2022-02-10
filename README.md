@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi! 👋 I'm Mahic!
 
 ### I am currently working as an electronics engineer at Manipal Institute of Technology's oldest and most prestigious student project, [Formula Manipal](https://www.formulamanipal.in/).
 
