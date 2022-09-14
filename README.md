@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Mahic!
 
-### I am currently working as an electronics engineer at Manipal Institute of Technology's Formula Student team, [Formula Manipal](https://www.formulamanipal.in/).
+### I am currently working as an Electronics & Control Systems Engineer at Manipal Institute of Technology's Formula Student team, [Formula Manipal](https://www.formulamanipal.in/).
 
 Here are some of the tasks I am working on:
 
